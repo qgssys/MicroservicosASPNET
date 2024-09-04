@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "D:\\CURSOS\\MicroservicosASPNET\\MicroservicosASPNET\\RestWithASPNETUdemy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E74F86D7-985E-4FB8-B40D-6CD50A8001E5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|d:\\cursos\\microservicosaspnet\\microservicosaspnet\\restwithaspnetudemy\\restwithaspnetudemy\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E74F86D7-985E-4FB8-B40D-6CD50A8001E5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E74F86D7-985E-4FB8-B40D-6CD50A8001E5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|d:\\cursos\\microservicosaspnet\\microservicosaspnet\\restwithaspnetudemy\\restwithaspnetudemy\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74F86D7-985E-4FB8-B40D-6CD50A8001E5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E74F86D7-985E-4FB8-B40D-6CD50A8001E5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|d:\\cursos\\microservicosaspnet\\microservicosaspnet\\restwithaspnetudemy\\restwithaspnetudemy\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E74F86D7-985E-4FB8-B40D-6CD50A8001E5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E74F86D7-985E-4FB8-B40D-6CD50A8001E5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|d:\\cursos\\microservicosaspnet\\microservicosaspnet\\restwithaspnetudemy\\restwithaspnetudemy\\services\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74F86D7-985E-4FB8-B40D-6CD50A8001E5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\services\\implementations\\personserviceimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74F86D7-985E-4FB8-B40D-6CD50A8001E5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|d:\\cursos\\microservicosaspnet\\microservicosaspnet\\restwithaspnetudemy\\restwithaspnetudemy\\services\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74F86D7-985E-4FB8-B40D-6CD50A8001E5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\services\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74F86D7-985E-4FB8-B40D-6CD50A8001E5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|d:\\cursos\\microservicosaspnet\\microservicosaspnet\\restwithaspnetudemy\\restwithaspnetudemy\\restwithaspnetudemy.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E74F86D7-985E-4FB8-B40D-6CD50A8001E5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\restwithaspnetudemy.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74F86D7-985E-4FB8-B40D-6CD50A8001E5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|d:\\cursos\\microservicosaspnet\\microservicosaspnet\\restwithaspnetudemy\\restwithaspnetudemy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E74F86D7-985E-4FB8-B40D-6CD50A8001E5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E74F86D7-985E-4FB8-B40D-6CD50A8001E5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|d:\\cursos\\microservicosaspnet\\microservicosaspnet\\restwithaspnetudemy\\restwithaspnetudemy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E74F86D7-985E-4FB8-B40D-6CD50A8001E5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74F86D7-985E-4FB8-B40D-6CD50A8001E5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|d:\\cursos\\microservicosaspnet\\microservicosaspnet\\restwithaspnetudemy\\restwithaspnetudemy\\restwithaspnetudemy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E74F86D7-985E-4FB8-B40D-6CD50A8001E5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\restwithaspnetudemy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E74F86D7-985E-4FB8-B40D-6CD50A8001E5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|d:\\cursos\\microservicosaspnet\\microservicosaspnet\\restwithaspnetudemy\\restwithaspnetudemy\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E74F86D7-985E-4FB8-B40D-6CD50A8001E5}|RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj|solutionrelative:restwithaspnetudemy\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,41 +54,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\CURSOS\\MicroservicosASPNET\\MicroservicosASPNET\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\CURSOS\\MicroservicosASPNET\\MicroservicosASPNET\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "RestWithASPNETUdemy\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T13:53:15.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\CURSOS\\MicroservicosASPNET\\MicroservicosASPNET\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\WeatherForecast.cs",
-              "ToolTip": "D:\\CURSOS\\MicroservicosASPNET\\MicroservicosASPNET\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\WeatherForecast.cs",
-              "RelativeToolTip": "RestWithASPNETUdemy\\WeatherForecast.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T13:52:47.528Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\CURSOS\\MicroservicosASPNET\\MicroservicosASPNET\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Program.cs",
               "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Program.cs",
               "ToolTip": "D:\\CURSOS\\MicroservicosASPNET\\MicroservicosASPNET\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Program.cs",
               "RelativeToolTip": "RestWithASPNETUdemy\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T13:52:42.018Z",
+              "WhenOpened": "2024-09-04T19:20:54.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonServiceImplementation.cs",
+              "DocumentMoniker": "D:\\CURSOS\\MicroservicosASPNET\\MicroservicosASPNET\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "ToolTip": "D:\\CURSOS\\MicroservicosASPNET\\MicroservicosASPNET\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Services\\Implementations\\PersonServiceImplementation.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwEIAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:55:22.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "D:\\CURSOS\\MicroservicosASPNET\\MicroservicosASPNET\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Services\\IPersonService.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Services\\IPersonService.cs",
+              "ToolTip": "D:\\CURSOS\\MicroservicosASPNET\\MicroservicosASPNET\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Services\\IPersonService.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Services\\IPersonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:49:17.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\CURSOS\\MicroservicosASPNET\\MicroservicosASPNET\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Model\\Person.cs",
+              "ToolTip": "D:\\CURSOS\\MicroservicosASPNET\\MicroservicosASPNET\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Model\\Person.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Model\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:43:00.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RestWithASPNETUdemy",
+              "DocumentMoniker": "D:\\CURSOS\\MicroservicosASPNET\\MicroservicosASPNET\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+              "ToolTip": "D:\\CURSOS\\MicroservicosASPNET\\MicroservicosASPNET\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+              "RelativeToolTip": "RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T18:40:19.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\CURSOS\\MicroservicosASPNET\\MicroservicosASPNET\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\CURSOS\\MicroservicosASPNET\\MicroservicosASPNET\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T14:44:36.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "D:\\CURSOS\\MicroservicosASPNET\\MicroservicosASPNET\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "ToolTip": "D:\\CURSOS\\MicroservicosASPNET\\MicroservicosASPNET\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "RestWithASPNETUdemy\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAA1wBEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:13:01.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestWithASPNETUdemy.http",
+              "DocumentMoniker": "D:\\CURSOS\\MicroservicosASPNET\\MicroservicosASPNET\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.http",
+              "RelativeDocumentMoniker": "RestWithASPNETUdemy\\RestWithASPNETUdemy.http",
+              "ToolTip": "D:\\CURSOS\\MicroservicosASPNET\\MicroservicosASPNET\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.http",
+              "RelativeToolTip": "RestWithASPNETUdemy\\RestWithASPNETUdemy.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-04T14:12:33.648Z",
               "EditorCaption": ""
             }
           ]
