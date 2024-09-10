@@ -14,7 +14,7 @@ namespace GeekShopping.ProductAPI.Model.Context
         ///Para adicionar no banco de dados execute o migrations no package manager console executando o comando:
         ///add-migration AddProductDataTableOnDB  (comando mais nome da migration)
 
-        //Adicionando 
+        //Adicionando lista de produtos ao mysql
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Product>().HasData(new Product
