@@ -10,7 +10,7 @@
 
         public string Description { get; set; }
 
-        public string CategryName { get; set; }
+        public string CategoryName { get; set; }
 
         public string ImageURL { get; set; }
     }
